@@ -37,6 +37,7 @@ import io.appium.java_client.remote.MobileCapabilityType;
 
 public abstract class BaseTest {
 	//this is a test message
+	//this is another test comment.
 	//public static RemoteWebDriver driver;
 	public static AppiumDriver driver;
 	public XMLUtils xmlUtils;
